@@ -1,0 +1,13 @@
+*.iml
+.gradle/
+.idea/
+build/
+extention/*.jks
+extention/build
+projectFilesBackup
+.DS_Store
+
+
+.project
+.settings/
+.vscode/
